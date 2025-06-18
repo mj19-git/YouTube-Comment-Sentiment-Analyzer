@@ -1,7 +1,7 @@
-🎬 YouTube Comment Sentiment Analyzer
+### 🎬 YouTube Comment Sentiment Analyzer
 This project focuses on analyzing audience sentiment from YouTube trailer comments using Natural Language Processing (NLP) and deep learning models. It classifies comments into positive, negative, or neutral categories to better understand viewer reactions.
 
-🔍 Project Overview
+## 🔍 Project Overview
 Developed an end-to-end sentiment analysis system tailored for YouTube trailer comments.
 
 Achieved 90% classification accuracy by leveraging NLP techniques and transformer-based models (HuggingFace).
@@ -14,7 +14,7 @@ Visualized sentiment trends with Matplotlib and WordClouds to surface dominant t
 
 Improved processing pipeline efficiency by 88% through streamlined data handling and optimized code structure.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 Python
 
 NLTK
@@ -27,7 +27,7 @@ Pandas & NumPy
 
 Matplotlib & WordCloud
 
-📊 Features
+## 📊 Features
 Preprocess raw YouTube comments (cleaning, tokenization, stopword removal)
 
 Predict sentiment using both rule-based and ML models
@@ -36,7 +36,7 @@ Generate word clouds for positive and negative sentiments
 
 Output structured sentiment summaries
 
-🚀 How to Run
+## 🚀 How to Run
 Clone the repository
 
 Install dependencies with pip install -r requirements.txt
@@ -47,7 +47,7 @@ Input YouTube comment dataset
 
 View results and visualizations
 
-📈 Results
+## 📈 Results
 Achieved:
 
 90% accuracy
@@ -56,7 +56,7 @@ Achieved:
 
 Rich visual insights from real-world data
 
-📌 Applications
+## 📌 Applications
 Media sentiment tracking
 
 Marketing feedback analysis
