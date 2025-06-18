@@ -1,6 +1,6 @@
 # 🎬 YouTube Comment Sentiment Analyzer
 
-This project focuses on analyzing audience sentiment from YouTube trailer comments using **Natural Language Processing (NLP)** and **deep learning models**. It classifies comments into **positive**, **negative**, or **neutral** categories to better understand viewer reactions.
+This project focuses on analyzing audience sentiment from YouTube trailer comments using **Natural Language Processing (NLP)** and **deep learning models**. It classifies comments into **positive**, **negative** or **neutral** categories to better understand viewer reactions.
 
 
 
